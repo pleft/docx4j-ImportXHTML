@@ -8,10 +8,10 @@
     <version>7</version>
   </parent>
 	
-	<groupId>org.docx4j</groupId>
+	<groupId>com.pleft</groupId>
 	<artifactId>docx4j-ImportXHTML</artifactId>
 	<name>docx4j-ImportXHTML</name>
-	<version>3.3.2-SNAPSHOT</version>
+	<version>3.3.2</version>
 	<description>
 		docx4j-ImportXHTML converts XHTML to OpenXML WordML (docx) using docx4j 
 	</description>
